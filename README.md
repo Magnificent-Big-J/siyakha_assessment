@@ -23,4 +23,5 @@ password: secret
 
 To start the server on your local machine type php artisan serve
 
+For email testing, choose either mailtrap or mailchimp and configure it on .env file.
 Login and enjoy :)
